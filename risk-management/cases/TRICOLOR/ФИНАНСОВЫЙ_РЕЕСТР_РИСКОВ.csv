@@ -1,0 +1,4 @@
+risk_id;business_process;scenario;loss_per_hour_rub;expected_downtime_hours;other_loss_rub;sle_rub;aro_per_year;ale_rub;target_rto_hours;target_rpo_hours;control_cost_per_year_rub;expected_residual_ale_rub;net_annual_benefit_rub;business_owner;status
+DEMO-F001;Демо-портал;Недоступность цифрового сервиса;600000;8;0;4800000;0.8;3840000;2;0.25;1200000;1344000;1296000;Вымышленный владелец;Синтетический
+DEMO-F002;Демо-сервис контента;Недоступность лицензированного контента;250000;12;300000;3300000;0.5;1650000;4;1;500000;900000;250000;Вымышленный владелец;Синтетический
+DEMO-F003;Демо-партнёрский API;Сбой партнёрских операций;100000;6;150000;750000;1.2;900000;2;0.5;200000;450000;250000;Вымышленный владелец;Синтетический
