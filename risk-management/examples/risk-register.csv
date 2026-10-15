@@ -1,0 +1,4 @@
+risk_id,scenario,asset,business_consequence,likelihood_1_5,impact_1_5,inherent_score,current_controls,planned_controls,residual_likelihood_1_5,residual_impact_1_5,residual_score,risk_owner,status,review_date,evidence
+DEMO-R001,Unauthorized access via external API,Demo customer portal,Disclosure of fictional personal data,4,4,16,Authentication and TLS,API authorization review and rate limits,2,4,8,Demo Product Owner,Proposed,2026-12-01,SYNTHETIC
+DEMO-R002,Failure of critical integration,Demo integration service,Service downtime and lost transactions,3,4,12,Monitoring and backups,Retry and failover testing,2,3,6,Demo Service Owner,Proposed,2026-12-01,SYNTHETIC
+DEMO-R003,Excessive partner access,Demo third-party access,Unauthorized privileged operations,3,5,15,Role-based access,Least privilege PAM and access review,2,4,8,Demo Vendor Owner,Proposed,2026-12-01,SYNTHETIC
