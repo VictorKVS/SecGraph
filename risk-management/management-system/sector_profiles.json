@@ -1,0 +1,282 @@
+[
+  {
+    "sector_id": "01",
+    "name": "медицина",
+    "risk_hard_constraints": [
+      "безопасность пациентов"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "02",
+    "name": "авиация",
+    "risk_hard_constraints": [
+      "безопасность полётов"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "03",
+    "name": "космос",
+    "risk_hard_constraints": [
+      "безопасность миссии"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "04",
+    "name": "госуправление",
+    "risk_hard_constraints": [
+      "права граждан"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "05",
+    "name": "банки",
+    "risk_hard_constraints": [
+      "регуляторные требования к финансовым операциям"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "06",
+    "name": "энергетика",
+    "risk_hard_constraints": [
+      "безопасность технологических процессов"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "07",
+    "name": "транспорт",
+    "risk_hard_constraints": [
+      "безопасность пассажиров"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "08",
+    "name": "телеком",
+    "risk_hard_constraints": [
+      "непрерывность связи"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "09",
+    "name": "промышленность",
+    "risk_hard_constraints": [
+      "промышленная безопасность"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "10",
+    "name": "ритейл",
+    "risk_hard_constraints": [
+      "защита потребителей"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "11",
+    "name": "образование",
+    "risk_hard_constraints": [
+      "права обучающихся"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "12",
+    "name": "медиа",
+    "risk_hard_constraints": [
+      "защита контента и клиентов"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "13",
+    "name": "водоснабжение",
+    "risk_hard_constraints": [
+      "жизнеобеспечение населения"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  },
+  {
+    "sector_id": "14",
+    "name": "логистика",
+    "risk_hard_constraints": [
+      "безопасность перевозок"
+    ],
+    "financial_bia_required": true,
+    "rto_rpo": "TBD by process owner",
+    "tiers": [
+      "minimum",
+      "balanced",
+      "maximum"
+    ],
+    "methodology": [
+      "FSTEC-threats-if-applicable",
+      "organization-approved-financial-risk-model"
+    ],
+    "regulatory_applicability": "requires legal review",
+    "data_status": "synthetic template"
+  }
+]
